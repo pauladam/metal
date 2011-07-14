@@ -5,3 +5,6 @@ metal.rb
 
 metal.rb scans the heavy metal subreddit and posts a playlist to roll.io of the latest youtube videos posted. 
 
+Usage
+=====
+$ ruby metal.rb
